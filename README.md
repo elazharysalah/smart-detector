@@ -376,4 +376,4 @@ This is an **educational prototype**. It is not a certified gas detector and mus
 
 ## 16. Author
 
-**EL-AZHARY Salah-Eddine**
+**@EL-AZHARY Salah-Eddine**
